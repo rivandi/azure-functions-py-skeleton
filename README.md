@@ -14,6 +14,7 @@ Learn more about binding function.json [here](https://docs.microsoft.com/en-us/a
 
 ##### Issue
 Cold - or frozen - start. Sometimes it takes minutes to install a wheel.
+
 This is a work in progress, might not work at all. Will update maybe.
 
 \**seriously this site is great. Really helpful back when I used Windows.*
