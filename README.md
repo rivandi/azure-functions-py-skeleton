@@ -13,8 +13,7 @@ You can find common wheels [here](https://pypi.python.org/pypi) or specially bui
 Learn more about binding function.json [here](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings).
 
 ##### Issue
-Cold - or frozen - start. Sometimes it takes minutes to install a wheel.
-
-This is a work in progress, might not work at all. Will update maybe.
+* Cold - or frozen - start. Sometimes it takes minutes to install a wheel.
+* This is a work in progress, might not work at all. Will update maybe.
 
 \**seriously this site is great. Really helpful back when I used Windows.*
